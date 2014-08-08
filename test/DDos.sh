@@ -1,4 +1,23 @@
-#!/bin/ak
+#!/bin/bash - 
+#===============================================================================
+#
+#          FILE:  anti_ping.sh
+# 
+#         USAGE:  ./anti_ping.sh 
+# 
+#   DESCRIPTION:  anti-ping-flood script
+# 
+#       OPTIONS:  ---
+#  REQUIREMENTS:  ---
+#          BUGS:  ---
+#         NOTES:  ---
+#        AUTHOR: bigdog()
+#       COMPANY: 
+#       CREATED: 04/01/2011 02:17:36 PM CST
+#      REVISION: 1.0.1
+#===============================================================================
+set -o nounset                              # Treat unset variables as an error
+
 
 # 用命令： 
 sysctl -a | grep syn 

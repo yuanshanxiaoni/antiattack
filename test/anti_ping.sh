@@ -11,8 +11,8 @@
 #  REQUIREMENTS:  ---
 #          BUGS:  ---
 #         NOTES:  ---
-#        AUTHOR: poorNigga
-#       COMPANY: DDNetwork(CD).
+#        AUTHOR: bigdog()
+#       COMPANY: 
 #       CREATED: 04/01/2011 02:17:36 PM CST
 #      REVISION: 1.0.1
 #===============================================================================

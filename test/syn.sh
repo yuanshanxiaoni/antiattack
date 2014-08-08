@@ -11,7 +11,7 @@
 #  REQUIREMENTS:  ---
 #          BUGS:  ---
 #         NOTES:  ---
-#        AUTHOR: YOUR NAME (), 
+#        AUTHOR: bigdog()
 #       COMPANY: 
 #       CREATED: 04/01/2011 03:31:59 PM CST
 #      REVISION:  ---
